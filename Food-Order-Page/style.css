@@ -1,1 +1,33 @@
-
+*{
+    margin: 0;
+}
+.container{
+    background-image: url("images/image1.png");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.menu-card{
+    background-color:#f6c56e;
+    padding:20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    width: 100vw;
+}
+.button-style{
+    background-color: #ffffff;
+    border:none;
+    border-radius: 3px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-top: 10px;
+}
+.discri{
+    font-weight: bold;
+    color:#323f4b;
+    font-size: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
