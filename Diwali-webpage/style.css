@@ -1,1 +1,37 @@
+.top-container{
+    background-image: url("images/diwali.png");
+    background-size: cover;
+    height: 42vh;
+}
+.heading{
+    color: white;
+    font-size: 15px;
+    padding: 20px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.main-section{
+    background-color:#e6f6ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.bg-color{
+    background-color:#e6f6ff;
+    text-align: center;
+}
+.item-container{
 
+  text-align: center;
+  font-size: 10px;
+  background-color: white;
+  width: 100px;
+  height: 70px;
+  border-radius: 9px;
+  padding: 10px;
+  margin: 15px;
+}
+.design{
+    margin: 10px;
+    
+}
