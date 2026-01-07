@@ -1,1 +1,22 @@
-
+.container{
+    background-image: url("images/beach.png");
+    background-size: cover;
+    display: flex;
+    align-items: end;
+    height: 100vh;
+}
+.card{
+    background-color: #ffffff;
+    width:100vw;
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.button {
+  color: white;
+  background-color: #25b1cc;
+  width: 138px;
+  height: 36px;
+  border-width: 0px;
+  border-radius: 20px;
+}
